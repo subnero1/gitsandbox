@@ -71,21 +71,42 @@ More reference video presentations [here](https://telescopeuser.wordpress.com/20
 `Refer to project report at Github Folder: ProjectReport`
 
 #### Sections for Project Report 
-- Executive Summary / Paper Abstract
-- Sponsor Company Introduction (if applicable)
-- Business Problem Background
-- Market Research
-- Project Objectives & Success Measurements
-- Project Solution (To detail domain modelling & system design.)
-- Project Implementation (To detail system development & testing approach.)
-- Project Performance & Validation (To prove project objectives are met.)
-- Project Conclusions: Findings & Recommendation
-- Appendix of report: Project Proposal
-- Appendix of report: Mapped System Functionalities against knowledge, techniques and skills of modular courses: MR, RS, CGS
-- Appendix of report: Installation and User Guide
-- Appendix of report: 1-2 pages individual project report per project member, including: Individual reflection of project journey: (1) personal contribution to group project (2) what learnt is most useful for you (3) how you can apply the knowledge and skills in other situations or your workplaces
-- Appendix of report: List of Abbreviations (if applicable)
-- Appendix of report: References (if applicable)
+
+- Executive Summary
+- Business Problem Background	
+    - Problem Statement	
+    - Market Research	
+    - Product Solution	
+      - Product Objectives
+      - Project Scope and Deliverables
+    - Project Team
+- Product Design	
+  - Main Features	
+  - Process Flow	
+  - System Highlights	
+    - Voice Activation
+    - Language Processing
+    - Data collection and relearning	
+- System Modeling
+  - Technical Flow
+- System Development & Implementation	
+  - User Interface
+    - MyCroft (User input)
+    - Nurse Station Panel
+    - Nurse Activity Manager(Admin Dashboard)	
+  - Backend Processing
+    - NLP Classification of request
+    - Dynamic Rule-Based Sorting	
+  - Data Management
+    - Storage of data
+    - Data Interaction	
+  - System Limitations	
+- System Performance & Evaluation
+  - Performance
+  - Challenges
+  - Future Developments
+    - Better Data Acquisition
+    - Sentiment Sensing in Voice Identification	
 
 ---
 ## SECTION 7 : MISCELLANEOUS
