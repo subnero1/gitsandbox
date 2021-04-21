@@ -71,7 +71,7 @@ More reference video presentations [here](https://telescopeuser.wordpress.com/20
 
 `Refer to project report at Github Folder: ProjectReport`
 
-**Recommended Sections for Project Report / Paper:**
+#### Sections for Project Report 
 - Executive Summary / Paper Abstract
 - Sponsor Company Introduction (if applicable)
 - Business Problem Background
