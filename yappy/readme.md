@@ -20,11 +20,10 @@ Our team had an amazing time working on this project, and hope to share our insi
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| Yap Jing Yang | A0229976H | Nurse Dashboard front-end, Project Report Writing, Business Video | A1234567A@nus.edu.sg |
-| Chang Ye Han | A1234567B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| E0687384@u.nus.edu |
-| Chee Jia Wei | A1234567C | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567C@outlook.com |
-| Ganesh Kumar | A1234567D | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567D@yahoo.com |
-| Jeanette Lim | A1234567E | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567E@qq.com |
+| Yap Jing Yang | A0229976H | Nurse Dashboard front-end, Project Report Writing, Business Video | E0687384@u.nus.edu |
+| Francis Tan Wee Meng | A1234567B | Python Coding, MongoDB Deployment, Project Report Writing, Technical Video| XXXXXXXX@u.nus.edu |
+| Ramya | A1234567C | MyCroft User Input, Admin Dashboard front-end, Heroku Host Deployment, Project Report Writing, Technical Video   | XXXXXXXX@u.nus.edu |
+| Wong DongChen | A0083129E| NLP processing, Project Report Writing, Business Video| XXXXXXXX@u.nus.edu |
 
 ---
 
@@ -93,7 +92,7 @@ More reference video presentations [here](https://telescopeuser.wordpress.com/20
 
 `Refer to Github Folder: Miscellaneous`
 
-### HDB_BTO_SURVEY.xlsx
-* Results of survey
-* Insights derived, which were subsequently used in our system
+### Files needed for NLP pre-processing
+  - Symptom-severity_training_data.csv
+  - patient_input.txt
 
