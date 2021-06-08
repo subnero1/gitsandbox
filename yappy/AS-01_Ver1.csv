@@ -1,16 +1,21 @@
-Item #,Part Name,Part Number,Description,Make/Buy,Quantity,Material,Vendor,Cost,Vendor URL,
-,AS-01,AS-01,Analog Stack,Make,1,,,,,
-1,Matching circuit module,MCM-0000001,Matching circuit module,Make,1,Discrete Component,,,,
-2,Transmit Module,TXM-0000001,Transmit Module,Make,1,Discrete Component,,,,
-3,Receiver Module,RXM-0000001,Receiver Module,Make,1,Discrete Component,,,,
-4,RXM heatsink,PHS-0000002,RXM heatsink,Make,1,Aluminum 6061,GJ3 prototyping,$56,,
-5,RXM shield base,MPRS-0210001,RXM shield base,Make,1,Stainless Steel AISI 304,,,,
-6,RXM shield top assembly,MPRS-1210001,RXM shield top assembly,Make,1,Stainless Steel AISI 304,,,,
-7,M3x25 FF,970250324,M3x25 FF standoff,Buy,6,"Brass, Soft Yellow",RS Components,$1.71,https://sg.rs-online.com/web/p/standoffs/1842757/,
-,,,,,,,Element14,$1.59,https://sg.element14.com/wurth-elektronik/970250324/standoff-hex-female-female-25mm/dp/2987919?ost=970250324,
-,,,,,,,Mouser,$1.49,https://www.mouser.sg/ProductDetail/Wurth-Elektronik/970250324?qs=%2Fha2pyFadujEiIBIgYIiEP3u%252BX0kvVo0kB1gNaXn1N3RY3imDZAzGA%3D%3D,
-8,M3x8 MF,971080324,M3x8 MF standoff,Buy,18,"Brass, Soft Yellow",RS Components,$0.95,https://sg.rs-online.com/web/p/standoffs/1842769/,
-9,M3x12 MF,221-140,M3x12 MF standoff,Buy,6,"Brass, Soft Yellow",RS Components,$0.58,https://sg.rs-online.com/web/p/standoffs/0221140/,
-10,M3x10 CS,232-8366,M3x10 countersunk fastener,Buy,3,Stainless Steel AISI 304,Rs Components,$0.27,https://sg.rs-online.com/web/p/socket-screws/2328366/,
-11,Cable Grommet,543-210,Cable Grommet,Buy,2,"Rubber, Black",RS Components,$0.22,https://sg.rs-online.com/web/p/rubber-grommets/0543210/,
-12,RXM wire,RXM wire,,,5,Discrete Component,,,,
+Item #,Part Name,Part Number,Description,Make/Buy,Quantity,Material,Vendor,Cost,Vendor URL
+,AS-01,AS-01,Analog Stack,Make,1,,,,
+1,Matching circuit module,MCM-0000001,Matching circuit module,Make,1,Discrete Component,,,
+2,Transmit Module,TXM-0000001,Transmit Module,Make,1,Discrete Component,,,
+3,Receiver Module,RXM-0000001,Receiver Module,Make,1,Discrete Component,,,
+4,RXM heatsink,PHS-0000002,RXM heatsink,Make,1,Aluminum 6061,GJ3 prototyping,$56,
+5,RXM shield base,MPRS-0210001,RXM shield base,Make,1,Stainless Steel AISI 304,,,
+6,RXM shield top assembly,MPRS-1210001,RXM shield top assembly,Make,1,Stainless Steel AISI 304,,,
+7,M3x25 FF,970250324,M3x25 FF standoff,Buy,6,"Brass, Soft Yellow",RS Components,$1.71,https://sg.rs-online.com/web/p/standoffs/1842757/
+,,,,,,,Element14,$1.59,https://sg.element14.com/wurth-elektronik/970250324/standoff-hex-female-female-25mm/dp/2987919?ost=970250324
+,,,,,,,Mouser,$1.49,https://www.mouser.sg/ProductDetail/Wurth-Elektronik/970250324?qs=%2Fha2pyFadujEiIBIgYIiEP3u%252BX0kvVo0kB1gNaXn1N3RY3imDZAzGA%3D%3D
+8,M3x8 MF,971080324,M3x8 MF standoff,Buy,18,"Brass, Soft Yellow",RS Components,$0.95,https://sg.rs-online.com/web/p/standoffs/1842769/
+,,,,,,,Element14,$1.07,https://sg.element14.com/wurth-elektronik/971080324/standoff-hex-male-female-14mm/dp/2988176?ost=971080324#
+,,,,,,,Mouser,$0.99,https://www.mouser.sg/ProductDetail/Wurth-Elektronik/971080324?qs=%2Fha2pyFaduhQfaL9FWOc3r8LOzyr%252BGD7G9mwAG4ixnaoYuopELT6HQ%3D%3D
+9,M3x12 MF,221-140,M3x12 MF standoff,Buy,6,"Brass, Soft Yellow",RS Components,$0.58,https://sg.rs-online.com/web/p/standoffs/0221140/
+,,,,,,,Element14,$0.45,https://sg.element14.com/ettinger/05-13-123/spacer-m3x12-ni/dp/1466845
+10,M3x10 CS,232-8366,M3x10 countersunk fastener,Buy,3,Stainless Steel AISI 304,Rs Components,$0.27,https://sg.rs-online.com/web/p/socket-screws/2328366/
+,,,,,,,Element14,$0.10,https://sg.element14.com/tr-fastenings/m310-kha2mcs50/screw-socket-csk-s-s-a2-m3x10/dp/1420666?st=m3%20x%2010mm%20hex%20socket%20countersunk
+11,Cable Grommet,543-210,Cable Grommet,Buy,2,"Rubber, Black",RS Components,$0.22,https://sg.rs-online.com/web/p/rubber-grommets/0543210/
+,,,,,,,Element14,$0.26,https://sg.element14.com/pro-power/pv233-grommet-pk-100/grommet-open-pvc-17-5mm-od-pk100/dp/1189043
+12,RXM wire,RXM wire,,,5,Discrete Component,,,
