@@ -2,7 +2,7 @@
 name: Work order
 about: Create a work order using the template.
 title: "<month>-<number of order for that month>-<customer name>"
-labels: ''
+labels: worksorder
 assignees: ''
 
 ---
