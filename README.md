@@ -1,6 +1,6 @@
 # Git Sandbox
 
-Play around with git, commit, revert and merge all you want.
+Play around with git, commit, revert and merge all you want. Create PRs and approve them!
 
 ## Resources
 
