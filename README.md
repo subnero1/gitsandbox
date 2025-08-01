@@ -10,6 +10,7 @@ Here are some resources to learn more about git.
 - [Managing Merge Conflicts](https://services.github.com/on-demand/merge-conflicts/)
 - [Trouble shooting](https://services.github.com/on-demand/git-trouble/)
 - [learngitbranching](https://learngitbranching.js.org/)
+- One here
 
 Here are some nice git cheat sheets.
 
@@ -25,3 +26,6 @@ _Remember though, this repo is public. :)_
 ## Contributing
 
 If you want to contribute, please fork the repo and create a pull request.
+
+
+I want to add many lines to a file
