@@ -21,3 +21,7 @@ Here is a great system for writing good commit messages.
 - [Git Commit Guidelines](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits)
 
 _Remember though, this repo is public. :)_
+
+## Contributing
+
+If you want to contribute, please fork the repo and create a pull request.
