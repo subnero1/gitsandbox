@@ -20,6 +20,7 @@ Here are some nice git cheat sheets.
 Here is a great system for writing good commit messages.
 
 - [Git Commit Guidelines](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits)
+- Another here
 
 _Remember though, this repo is public. :)_
 
