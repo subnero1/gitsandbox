@@ -30,3 +30,13 @@ If you want to contribute, please fork the repo and create a pull request.
 
 
 I want to add many lines to a file
+
+## Diagram
+
+```mermaid
+flowchart TD
+        A(["Start"])
+        A --> B{"Decision"}
+        B --> C["Option A"]
+        B --> D["Option B"]
+```
