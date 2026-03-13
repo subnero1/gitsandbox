@@ -3,6 +3,7 @@
 Play around with git, commit, revert and merge all you want.
 
 Adding to readme file
+
 A different line
 
 ## Resources
