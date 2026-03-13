@@ -2,6 +2,8 @@
 
 Play around with git, commit, revert and merge all you want.
 
+Adding to readme file
+
 ## Resources
 
 Here are some resources to learn more about git.
