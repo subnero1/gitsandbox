@@ -4,7 +4,6 @@ Play around with git, commit, revert and merge all you want.
 
 Adding to readme file
 More lines here
-
 A different line
 
 ## Resources
